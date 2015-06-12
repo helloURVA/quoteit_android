@@ -16,16 +16,6 @@ Screen Shots
 
 
 
-![3](http://lh3.googleusercontent.com/FcKzgIj9UACHGYzxLg-bZ2iN-nHuHOcx0tO886HcAxZUWpIZVJh54USr8D5IKfNXfVPM1NHGLwi3nKE=w1342-h547-rw)
-
-![4](http://lh4.googleusercontent.com/SsxHT5FyL3dCnqbBJEA_Godf-Nvrcb_0LlelJKR4z3zGehK7ZWxUXVymahuex4cRDGds1RpoQylLXds=w1342-h547-rw)
-
-![5](http://lh5.googleusercontent.com/J_5O8NGraBJ68rteV2hAFL8F913q8RKAw0qX3VfL4JgvpecEHR58kU__aY5EQyYf3ZkqqTRZycnTmlI=w1342-h547-rw)
-
-
-![6](http://lh3.googleusercontent.com/VPm1V-KzAw4W0lPqNKmZ4et6WLt-yKXdkhjrF-NtStNhod4CTVfArBkQ996i6biUHpmJuR2utEkLzdg=w1342-h547-rw)
-
-
 Features
 -------------
 **Quote it** is under development at the moment. I am working hard to bring it to general audience as soon as possible. If you are interested in this app then feel free to `fork` this repo. 
