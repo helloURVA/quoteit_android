@@ -1,0 +1,69 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context="it.qoute.zaingz.com.quoteit_android.CreateQuoteActivity">
+
+    <android.support.v7.widget.Toolbar
+
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:minHeight="?attr/actionBarSize"
+        android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+        android:background="?attr/colorPrimary"/>
+<FrameLayout
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_below="@+id/toolbar">
+<LinearLayout
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+
+    android:background="@color/primary">
+
+    <com.rengwuxian.materialedittext.MaterialEditText
+
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:hint="Your Quote"
+        android:textSize="23sp"
+        android:id="@+id/quoteEt"
+        android:layout_margin="20dp"
+        android:layout_marginTop="10dp"
+        app:met_baseColor="@color/primary_light"
+        app:met_floatingLabel="highlight"
+        app:met_primaryColor="@color/accent"/>
+
+    <com.rengwuxian.materialedittext.MaterialEditText
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Author"
+        android:id="@+id/authorEt"
+        android:textSize="16sp"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginBottom="60dp"
+        android:layout_marginLeft="20dp"
+        app:met_baseColor="@color/primary_light"
+        app:met_floatingLabel="highlight"
+        app:met_primaryColor="@color/accent"/>
+
+
+
+</LinearLayout>
+
+    <com.software.shell.fab.ActionButton
+        android:id="@+id/action_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:layout_marginTop="-3dp"
+
+        android:layout_marginRight="@dimen/fab_margin"
+        android:transitionName="float"
+        android:layout_gravity="right|center_vertical" />
+</FrameLayout>
+</RelativeLayout>
