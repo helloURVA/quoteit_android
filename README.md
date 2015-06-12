@@ -7,18 +7,18 @@ Quote it is a social platform for sharing quotes and wise sayings. It is great t
 
 Screen Shots
 -------------------
-![1](https://lh5.googleusercontent.com/RT9lR2kNUI7jNrbvcHeivhosfqw4hp1X3lZkZBrqIdHEaAltfmv7SPRn_KHglNBs_V8kQFFXRhEeae8=w1342-h547-rw)
+![1](http://lh5.googleusercontent.com/RT9lR2kNUI7jNrbvcHeivhosfqw4hp1X3lZkZBrqIdHEaAltfmv7SPRn_KHglNBs_V8kQFFXRhEeae8=w1342-h547-rw)
 
-![2](https://lh4.googleusercontent.com/vj0llVbKrQWOMUPdakCALtFcgbP0SiZWFIAFAS13cTnjUDZDHjOWtibLcVTktwWOt3QasZH5ruzx3Oo=w1342-h547-rw)
+![2](http://lh4.googleusercontent.com/vj0llVbKrQWOMUPdakCALtFcgbP0SiZWFIAFAS13cTnjUDZDHjOWtibLcVTktwWOt3QasZH5ruzx3Oo=w1342-h547-rw)
 
-![3](https://lh3.googleusercontent.com/FcKzgIj9UACHGYzxLg-bZ2iN-nHuHOcx0tO886HcAxZUWpIZVJh54USr8D5IKfNXfVPM1NHGLwi3nKE=w1342-h547-rw)
+![3](http://lh3.googleusercontent.com/FcKzgIj9UACHGYzxLg-bZ2iN-nHuHOcx0tO886HcAxZUWpIZVJh54USr8D5IKfNXfVPM1NHGLwi3nKE=w1342-h547-rw)
 
-![4](https://lh4.googleusercontent.com/SsxHT5FyL3dCnqbBJEA_Godf-Nvrcb_0LlelJKR4z3zGehK7ZWxUXVymahuex4cRDGds1RpoQylLXds=w1342-h547-rw)
+![4](http://lh4.googleusercontent.com/SsxHT5FyL3dCnqbBJEA_Godf-Nvrcb_0LlelJKR4z3zGehK7ZWxUXVymahuex4cRDGds1RpoQylLXds=w1342-h547-rw)
 
-![5](https://lh5.googleusercontent.com/J_5O8NGraBJ68rteV2hAFL8F913q8RKAw0qX3VfL4JgvpecEHR58kU__aY5EQyYf3ZkqqTRZycnTmlI=w1342-h547-rw)
+![5](http://lh5.googleusercontent.com/J_5O8NGraBJ68rteV2hAFL8F913q8RKAw0qX3VfL4JgvpecEHR58kU__aY5EQyYf3ZkqqTRZycnTmlI=w1342-h547-rw)
 
 
-![enter image description here](https://lh3.googleusercontent.com/VPm1V-KzAw4W0lPqNKmZ4et6WLt-yKXdkhjrF-NtStNhod4CTVfArBkQ996i6biUHpmJuR2utEkLzdg=w1342-h547-rw)
+![6](http://lh3.googleusercontent.com/VPm1V-KzAw4W0lPqNKmZ4et6WLt-yKXdkhjrF-NtStNhod4CTVfArBkQ996i6biUHpmJuR2utEkLzdg=w1342-h547-rw)
 
 
 Features
