@@ -7,9 +7,14 @@ Quote it is a social platform for sharing quotes and wise sayings. It is great t
 
 Screen Shots
 -------------------
-![1](http://lh5.googleusercontent.com/RT9lR2kNUI7jNrbvcHeivhosfqw4hp1X3lZkZBrqIdHEaAltfmv7SPRn_KHglNBs_V8kQFFXRhEeae8=w1342-h547-rw)
+![1](screenshots/1.png)
+![2](screenshots/2.png)
+![3](screenshots/3.png)
+![4](screenshots/4.png)
+![5](screenshots/5.png)
+![5](screenshots/6.png)
 
-![2](http://lh4.googleusercontent.com/vj0llVbKrQWOMUPdakCALtFcgbP0SiZWFIAFAS13cTnjUDZDHjOWtibLcVTktwWOt3QasZH5ruzx3Oo=w1342-h547-rw)
+
 
 ![3](http://lh3.googleusercontent.com/FcKzgIj9UACHGYzxLg-bZ2iN-nHuHOcx0tO886HcAxZUWpIZVJh54USr8D5IKfNXfVPM1NHGLwi3nKE=w1342-h547-rw)
 
